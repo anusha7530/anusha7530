@@ -1,24 +1,25 @@
 
 <h1 align="center">Hi 👋, I'm Anusha Agarwal</h1>
-<h3 align="center">A CSE student at JSSATE,NOIDA</h3>
-<br>
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=CSE%20student%20at%20JSSATE,%20Noida;Web%20Developer;%20Microsoft%20Mobile%20Innovation%20Lab;%20Always%20learning%20new%20things!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
   <br>
+- 🌱 I’m currently learning `DSA` and `Web Development`.
 
+- 👀 I’m a strong believer in `continuous learning` and `collaboration`.
 
-- 🌱 I’m currently learning **DSA and Web Development**
+- 📫 How to reach me `agarwalanusha13@gmail.com`.
 
-- 👀 I’m a strong believer in **continuous learning and collaboration**
-
-- 📫 How to reach me **agarwalanusha13@gmail.com**
-
-- ⚡ Fun fact **The first “computer bug” was an actual bug**
+- ⚡ Fun fact **The first `“computer bug”` was an actual `bug`**.
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anusha-agarwal-068b70271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anusha-agarwal-068b70271" height="30" width="40" /></a>
 <a href="https://instagram.com/_anusha_ag13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_anusha_ag13" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/agarwalanusha1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="agarwalanusha1" height="30" width="40" /></a>
+<a href="mailto:agarwalanusha13@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="agarwalanusha1" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/agarwalanusha13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="agarwalanusha13" height="30" width="40" /></a>
 <!-- <a href="https://www.leetcode.com/anusha_agarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anusha_agarwal" height="30" width="40" /></a> -->
 <!-- <a href="https://auth.geeksforgeeks.org/user/agarwalaqo5p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="agarwalaqo5p" height="30" width="40" /></a> -->
